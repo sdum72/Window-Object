@@ -1,12 +1,12 @@
-// Logs window object using this
-// console.log("this: ");
-// console.log(this);
-console.log(window);
+// TODO: What will the following line of code log?
+console.log(window);  // logs the window
 
-// Logs the document object
-console.log("window.document: ");
-// console.log(window.document);
+// TODO: What will the following line of code log?
+console.log(window.document); // logs HTML Document
 
-// // Logs body of document
-// console.log("document.body: ");
-// console.log( document.body);
+// TODO: What will the following line of code log?
+console.log(document.documentElement); // logs html element.
+
+// TODO: What will the following line of code log?
+console.log(document.head); // displays the head element.
+
